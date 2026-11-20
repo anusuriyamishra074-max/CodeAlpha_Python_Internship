@@ -44,7 +44,6 @@ Repository Structure
 - "chatbot.py"
 
 About
-
 These projects are designed to practise Python fundamentals and develop basic programming and problem-solving skills.
 
 Internship Domain: Python Programming
